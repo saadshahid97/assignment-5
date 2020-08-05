@@ -1,0 +1,35 @@
+h1{
+	margin-top: 5px; margin-bottom: 5px;
+	line-height: 0.75;
+	padding-bottom: 5px;
+}
+
+h2{
+	padding-top: 5px;
+	font-size: 1.5em;
+}
+
+#nav-list{
+	text-align: center;
+}
+#nav-list{
+	background-color: #D6D6D6;
+}
+
+#first-para, #second-para, #third-para{
+	color: black;
+	padding-bottom: 5px;
+	margin: 0 auto 15px;
+}
+
+#first-para{
+	background-color: #FFFF33;
+}
+
+#second-para{
+	background-color: #A9A9A9;
+}
+
+#third-para{
+	background-color: #D3D3D3;
+}
